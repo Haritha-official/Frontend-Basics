@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body{
+         font-family:'Courier New', Courier, monospace;  
+         }
+         form {
+            padding-top:25px;
+         }
+        label{
+            text-align:left;
+            padding-left:150px;
+            display:inline-block;
+            width:120px;
+            vertical-align:top;
+            font-size:15px;
+            }
+        input, textarea{
+            margin-bottom:10px;
+            border:1px solid skyblue;
+            padding:3px;
+            }
+        button{
+            margin-left:220px;
+        }
+        button:hover{
+            border-color:skyblue;
+        }
+    </style>
+    <body>
+        <h1 style="text-align:center;"><b>Registration form</b></h1>
+        <form>
+            <label for="id">Id:</label>
+            <input type="text" id="id" name="id"><br>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name"><br>
+            <label for="course">Course:</label>
+            <input type="text" id="course" name="course"><br>
+            <label for="branch">Branch:</label>
+            <input type="text" id="branch" name="branch"><br>
+            <label for="rollno">Rollno:</label>
+            <input type="text" id="rollno" name="rollno"><br>
+            <label for="email_add">Email_Address:</label>
+            <input type="text" id="email_add" name="email_add"><br>
+            <label for="uname">User_Name:</label>
+            <input type="text" id="uname" name="uname"><br>
+            <label for="about_us";">About Us:</label>
+            <textarea name="about_us" rowa="2" cols="25"></textarea><br>
+            <label for="pwd">Password:</label>
+            <input type="password" id="pwd" name="pwd"><br>
+            <button type="submit">Add</button>
+            
+        </form>
+    </body>
+</html>
