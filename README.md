@@ -28,12 +28,6 @@ Explored vector graphics by creating a circle with a cross inside using SVG elem
 - SVG graphics
 - Page layout and alignment techniques
 
----
-
-## 📁 Folder Structure (if organizing)
-
----
-
 ## 👩‍💻 Author
 **Haritha**  
 Third-Year Cybersecurity Student | Easwari Engineering College  
