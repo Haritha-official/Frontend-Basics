@@ -1,6 +1,6 @@
 # HTML Practice Tasks – 8Queens
 
-This repository contains a set of HTML projects I completed during my internship at **8Queens UK**. These tasks were designed to enhance my understanding of frontend development using HTML5 and basic CSS.
+This repository contains a set of HTML projects I completed during my internship at **8Queens Software Technologies Private Limited**. These tasks were designed to enhance my understanding of frontend development using HTML5 and basic CSS.
 
 ---
 
